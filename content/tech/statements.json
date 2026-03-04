@@ -2,8 +2,8 @@
   "statements": [
     {
       "id": "t1",
-      "slots": ["tech", "tech"],
-      "template": "{tech} engineers realize: It’s time to move on to {tech}."
+      "slots": ["people", "tech"],
+      "template": "{people} realize: It’s time to move on to {tech}."
     },
     {
       "id": "t2",
@@ -12,8 +12,8 @@
     },
     {
       "id": "p1",
-      "slots": ["people", "tech", "tech"],
-      "template": "{people} are choosing {tech} over {tech}."
+      "slots": ["people", "tech", "preference"],
+      "template": "{people} who use {tech} prefer {preference}."
     },
     {
       "id": "p1",
