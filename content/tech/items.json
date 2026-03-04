@@ -1,0 +1,40 @@
+{
+  "types": {
+    "people": {
+      "beng": "Backend Engineers",
+      "fengs": "Frontend Engineers",
+      "fleng": "Fullstack Engineers",
+      "meng": "Mobile Engineers",
+      "data": "Data Engineers",
+      "sec": "Security Engineers",
+      "devop": "DevOps Engineers",
+      "founders": "Founders",
+      "investors": "Investors"
+    },
+    "tech": {
+      "ai": "AI",
+      "cloud": "Cloud",
+      "dbs": "Databases",
+      "devops": "DevOps",
+      "docker": "Docker",
+      "git": "Git",
+      "js": "JavaScript",
+      "k8s": "Kubernetes",
+      "laravel": "Laravel",
+      "perf": "Performance",
+      "php": "PHP",
+      "python": "Python",
+      "react": "React",
+      "scl": "Scalability",
+      "security": "Security",
+      "testing": "Testing",
+      "vue": "Vue"
+    },
+    "preference": {
+      "tbs": "Tabs",
+      "sps": "Spaces",
+      "dark": "Dark Mode"
+    }
+  }
+}
+

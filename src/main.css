@@ -1,0 +1,45 @@
+:root {
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --color-bg: #faf7f2;
+  --color-text: #18130c;
+  --color-accent: #b32b2b;
+  --color-border: #e0d7c8;
+  --color-muted: #6b6257;
+  --color-surface: #ffffff;
+}
+
+:root[data-theme='dark'] {
+  --color-bg: #0f1115;
+  --color-text: #f7f3eb;
+  --color-accent: #ff6b4a;
+  --color-border: #363b46;
+  --color-muted: #a9a6a0;
+  --color-surface: #181b22;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+button {
+  font-family: inherit;
+}
+

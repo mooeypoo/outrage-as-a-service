@@ -1,0 +1,30 @@
+{
+  "statements": [
+    {
+      "id": "t1",
+      "slots": ["tech", "tech"],
+      "template": "{tech} engineers realize: It’s time to move on to {tech}."
+    },
+    {
+      "id": "t2",
+      "slots": ["tech", "tech"],
+      "template": "{tech} makes no sense anymore. {tech} is what everyone is using."
+    },
+    {
+      "id": "p1",
+      "slots": ["people", "tech", "tech"],
+      "template": "{people} are choosing {tech} over {tech}."
+    },
+    {
+      "id": "p1",
+      "slots": ["tech", "tech"],
+      "template": "If you want to succeed in {tech}, you have to stop using {tech}."
+    },
+    {
+      "id": "p1",
+      "slots": ["people", "preference", "preference"],
+      "template": "Actual {people} use {preference} over {preference}."
+    }
+  ]
+}
+
