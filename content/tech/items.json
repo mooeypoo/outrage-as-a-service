@@ -8,6 +8,12 @@
       "data": "Data Engineers",
       "sec": "Security Engineers",
       "devop": "DevOps Engineers",
+      "pm": "Product Managers",
+      "qa": "QA Engineers",
+      "ux": "UX Designers",
+      "eng": "Engineers",
+      "dev": "Developers",
+      "ops": "Operations Engineers",
       "founders": "Founders",
       "investors": "Investors"
     },
@@ -33,7 +39,22 @@
     "preference": {
       "tbs": "Tabs",
       "sps": "Spaces",
-      "dark": "Dark Mode"
+      "dark": "Dark Mode",
+      "semi": "Semicolons",
+      "snake": "Snake Case",
+      "camel": "Camel Case",
+      "kebab": "Kebab Case",
+      "pascal": "Pascal Case",
+      "title": "Title Case",
+      "sentence": "Sentence Case",
+      "lowercase": "Lowercase",
+      "uppercase": "Uppercase",
+      "trailing": "Trailing Commas",
+      "agile": "Agile",
+      "scrum": "Scrum",
+      "kanban": "Kanban",
+      "waterfall": "Waterfall",
+      "cr": "Code Reviews"
     }
   }
 }
