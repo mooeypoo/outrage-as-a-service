@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-const repoUrl = 'https://github.com/your-org/outrage-as-a-service';
+const repoUrl = 'https://github.com/mooeypoo/outrage-as-a-service';
 </script>
 
 <style scoped>
